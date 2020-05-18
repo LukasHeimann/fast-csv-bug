@@ -1,1 +1,1 @@
-require('fast-csv');
+console.log(require('fast-csv'));
